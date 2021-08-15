@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monsterzone/static/css/main.5452d2a5.chunk.css",
+    "main.js": "/monsterzone/static/js/main.39315c5e.chunk.js",
+    "main.js.map": "/monsterzone/static/js/main.39315c5e.chunk.js.map",
+    "runtime-main.js": "/monsterzone/static/js/runtime-main.46437901.js",
+    "runtime-main.js.map": "/monsterzone/static/js/runtime-main.46437901.js.map",
+    "static/js/2.5a90768e.chunk.js": "/monsterzone/static/js/2.5a90768e.chunk.js",
+    "static/js/2.5a90768e.chunk.js.map": "/monsterzone/static/js/2.5a90768e.chunk.js.map",
+    "static/js/3.72e2c16a.chunk.js": "/monsterzone/static/js/3.72e2c16a.chunk.js",
+    "static/js/3.72e2c16a.chunk.js.map": "/monsterzone/static/js/3.72e2c16a.chunk.js.map",
+    "index.html": "/monsterzone/index.html",
+    "static/css/main.5452d2a5.chunk.css.map": "/monsterzone/static/css/main.5452d2a5.chunk.css.map",
+    "static/js/2.5a90768e.chunk.js.LICENSE.txt": "/monsterzone/static/js/2.5a90768e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/monsterzone/static/media/bricks.f44a2f4c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46437901.js",
+    "static/js/2.5a90768e.chunk.js",
+    "static/css/main.5452d2a5.chunk.css",
+    "static/js/main.39315c5e.chunk.js"
+  ]
+}
